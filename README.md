@@ -1,4 +1,4 @@
 - My name is Matt (he/him) & I'm a health economics PhD student at Johns Hopkins School of Public Health
 - My professional interests revolve mostly around social policy & Medicaid
 - On the side, I like to cobble together smaller projects around NFL analytics
-- You can find more about me at [https://mplavallee.com](https://mplavallee.com)
+- You can find more about me and my work at [https://mplavallee.com](https://mplavallee.com)
